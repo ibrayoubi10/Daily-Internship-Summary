@@ -18,4 +18,4 @@ Planned improvements include:
 - exporting structured notes
 
 # 👤 Author 
-Ibrahim Al-Ayoubi\
+Ibrahim Al-Ayoubi, Junior ML Engineer
